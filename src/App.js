@@ -8,6 +8,7 @@ function Board() {
   }
 
   function restart() {
+    console.log('oke');
   }
 
   function renderSquare(i) {
